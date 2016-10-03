@@ -1,1 +1,0 @@
-# Snapshot-SQL-Server
